@@ -41,7 +41,7 @@ Installation
 
 Clone the repository and navigate to the project directory:
 git clone <your-github-repository-url>
-cd Smart-expense-tracker
+cd expense-tracker-restapi
 
 Install the requiired dependencies:
 npm install
