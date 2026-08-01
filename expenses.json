@@ -1,0 +1,16 @@
+[
+  {
+    "id": "207d630a-08bd-473b-8ca5-daa40d2b9c79",
+    "title": "Grocery Shopping",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "b0d81f18-615e-48cd-9e60-f9526906a1b7",
+    "title": "Dinner",
+    "amount": 600,
+    "category": "food",
+    "date": "2026-08-01"
+  }
+]
